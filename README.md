@@ -1,16 +1,34 @@
-## Hi there 👋
+# About Me
 
-<!--
-**koba1202/koba1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+フルスタックエンジニアとして、Webアプリケーションの設計・開発に携わっています。  
+フロントエンドからバックエンドの実装を行ってきました。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+経験年数: 2年
+
+**主な開発実績**
+
+- 出荷管理システムの開発
+- 受注システムの開発
+- 配車システムの基本設計
+
+---
+
+## Tech Stack
+
+| 領域 | 技術 |
+|---|---|
+| Frontend | Vue.js, JavaScript |
+| Backend | Python, Django |
+| その他 | Git, PostgreSQL |
+
+---
+
+## Currently Learning
+
+- Typescript
+- React
+- Claude Code
