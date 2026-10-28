@@ -1,33 +1,13 @@
-## About Me
-
-業務では主にWebアプリ開発を行っています。  
-最近は Claude Code や WezTerm、Vim を触りながら自分の開発環境を育てるのにハマっています。  
-キーバインドの快感。環境によって Shell や設定が変わるもどかしさ...
-
----
-
-## Experience
-
-- 出荷管理システムの開発
-- 受注システムの開発
-- 配車システムの基本設計
-
----
-
 ## Tech Stack
 
-| 領域 | 技術 |
-|---|---|
-| Frontend | Vue.js, JavaScript |
-| Backend | Python, Django, DjangoRestFramework |
-| etc.. | Git, PostgreSQL |
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,js,python,django,git,postgres" alt="Vue.js, JavaScript, Python, Django, Git, PostgreSQL" />
+</p>
 
----
+## Contributions
 
-## Currently Learning
-
-- Typescript
-- React
-- Claude Code
-- ドキュメント作成
-- データ分析
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koba1202/koba1202/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koba1202/koba1202/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/koba1202/koba1202/output/github-contribution-grid-snake.svg" />
+</picture>
